@@ -10,6 +10,3 @@ This repository contains various machine learning implementations organized into
 - **support vector machine**: Contains implementations of support vector machine algorithms.
 - **trees**: Contains implementations of tree-based algorithms.
 
-## Note
-
-Files such as `main.py` and `requirements.txt` are not part of this project structure.
